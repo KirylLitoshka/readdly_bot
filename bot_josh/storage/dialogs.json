@@ -1,0 +1,2402 @@
+{
+    "0": {
+        "ru": "<i><b>Chat is open...</b></i>",
+        "choices": [
+            "1"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "<i><b>Comienza a chatear...</b></i>"
+    },
+    "1": {
+        "ru": "Hello. Is everything alright?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Hola. ¿Está todo bien?"
+    },
+    "2": {
+        "ru": "Yeah I'm sorry",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí, lo siento"
+    },
+    "3": {
+        "ru": "Didn't mean to go quiet",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Perdona que no te contesté"
+    },
+    "4": {
+        "ru": "I'm just trying to rush",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Pero tenía prisa"
+    },
+    "5": {
+        "ru": "You know since I'm running late",
+        "choices": [
+            "6"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Ya sabes, llego tarde"
+    },
+    "6": {
+        "ru": "Do you think you're going to be able to catch it?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Crees que vas a poder cogerlo?"
+    },
+    "7": {
+        "ru": "Oh yeah",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Oh, sí"
+    },
+    "8": {
+        "ru": "I'm here now anyways",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "De todas formas ya estoy aquí"
+    },
+    "9": {
+        "ru": null,
+        "choices": [
+            "10"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "Train1.jpg",
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": null
+    },
+    "10": {
+        "ru": "Cool",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Genial"
+    },
+    "11": {
+        "ru": "I'm just trying to find where to go exactly",
+        "choices": [
+            "12"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Es que no entiendo dónde ir exactamente"
+    },
+    "12": {
+        "ru": "It's very empty, isn't it?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Está muy vacío, ¿verdad?"
+    },
+    "13": {
+        "ru": "Yeah I don't know why",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí, no sé por qué"
+    },
+    "14": {
+        "ru": "It shouldn't be, I thought many people would be travelling at this time",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No debería estarlo, pensaba que mucha gente estaría viajando a esta hora"
+    },
+    "15": {
+        "ru": "God, I'm having a difficult time",
+        "choices": [
+            "16"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Dios, tengo un problema"
+    },
+    "16": {
+        "ru": "How come?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué pasa?"
+    },
+    "17": {
+        "ru": "The screens aren't working",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Las pantallas no funcionan"
+    },
+    "18": {
+        "ru": "Maybe they're not connected",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Tal vez no están conectadas"
+    },
+    "19": {
+        "ru": "Or maybe they're failing",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "O tal vez están fallando"
+    },
+    "20": {
+        "ru": "But it's not letting me see where to catch my train",
+        "choices": [
+            "21"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Pero no me deja ver dónde coger mi tren"
+    },
+    "21": {
+        "ru": "Ask an employee",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Pregunta a un empleado"
+    },
+    "22": {
+        "ru": "That's the weird thing, I don't seem to find any",
+        "choices": [
+            "23"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Eso es lo raro, parece que no hay ninguno"
+    },
+    "23": {
+        "ru": "That's odd...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Eso es raro..."
+    },
+    "24": {
+        "ru": "😒",
+        "choices": [
+            "25"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2.0,
+        "event": null,
+        "text": "😒"
+    },
+    "25": {
+        "ru": "I'm sorry babe",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Lo siento, cariño"
+    },
+    "26": {
+        "ru": "Just need to keep searching",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Voy a seguir buscando"
+    },
+    "27": {
+        "ru": "Oh wait, I see someone",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Oh, espera, veo a alguien"
+    },
+    "28": {
+        "ru": "He looks like a maintenance guy",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Parece un tipo de mantenimiento"
+    },
+    "29": {
+        "ru": "Gonna ask him",
+        "choices": [
+            "30"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Voy a preguntarle"
+    },
+    "30": {
+        "ru": "Okay",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Vale"
+    },
+    "31": {
+        "ru": "<i><b>3 minutes later...</b></i>",
+        "choices": [
+            "32"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 5.0,
+        "event": null,
+        "text": "<i><b>3 minutos después...</b></i>"
+    },
+    "32": {
+        "ru": "So? Everything alright?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Y? ¿Todo bien?"
+    },
+    "33": {
+        "ru": "Yes, I think I know where to go",
+        "choices": [
+            "34"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí, creo que sé dónde ir"
+    },
+    "34": {
+        "ru": "Did the person help you?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Este tipo te ayudó?"
+    },
+    "35": {
+        "ru": "Yes. He was a bit odd but he was an employee so he must be right",
+        "choices": [
+            "36"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí. Era un poco raro, pero era un empleado así que creo que lo sabe bien"
+    },
+    "36": {
+        "ru": "What do you mean? Why was he odd?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué quieres decir? ¿Por qué te pareció raro?"
+    },
+    "37": {
+        "ru": "Hmm, I don't know... He was just weird",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Hmm, no sé... Simplemente era raro"
+    },
+    "38": {
+        "ru": "He looked weird, he sounded weird",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Se veía raro, sonaba raro"
+    },
+    "39": {
+        "ru": "But nothing to worry about",
+        "choices": [
+            "40"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Pero no tienes nada de qué preocuparte"
+    },
+    "40": {
+        "ru": "Good, if you say so :)",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Bien, si tú lo dices :)"
+    },
+    "41": {
+        "ru": "Yeah",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí"
+    },
+    "42": {
+        "ru": "Okay, so this whole platform is very empty",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Bueno, toda esta plataforma está vacía"
+    },
+    "43": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "Train2.jpg",
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": null
+    },
+    "44": {
+        "ru": "Am I the only one who needs to travel or what? lol",
+        "choices": [
+            "45"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "¿Soy el único que necesita viajar o qué? lol"
+    },
+    "45": {
+        "ru": "It sure seems like… But it's weird though",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Eso parece… Aunque es raro"
+    },
+    "46": {
+        "ru": "😰",
+        "choices": [
+            "47"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2.0,
+        "event": null,
+        "text": "😰"
+    },
+    "47": {
+        "ru": "Okay, I know my town is not a popular destination but it's shocking there's nobody else coming",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Bueno, sé que mi pueblo no es un destino popular pero es chocante que no venga nadie más"
+    },
+    "48": {
+        "ru": "Indeed",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Es verdad"
+    },
+    "49": {
+        "ru": "It's also very damn dark",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "También está muy jodidamente oscuro"
+    },
+    "50": {
+        "ru": "Next time I'll definitely be taking the train from another station",
+        "choices": [
+            "51"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "La próxima vez seguro que cojo el tren desde otra estación"
+    },
+    "51": {
+        "ru": "Sure",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Vale"
+    },
+    "52": {
+        "ru": "But hey, I seem to be lucky",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Pero bueno, parece que tengo suerte"
+    },
+    "53": {
+        "ru": "I made it just in time",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Llegué justo a tiempo"
+    },
+    "54": {
+        "ru": "My train is here",
+        "choices": [
+            "55"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Mi tren está aquí"
+    },
+    "55": {
+        "ru": "That's great!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡Eso es genial!"
+    },
+    "56": {
+        "ru": "Just getting in now",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Voy a subir"
+    },
+    "57": {
+        "ru": "<i><b>3 minutes later...</b></i>",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 5.0,
+        "event": null,
+        "text": "<i><b>3 minutos después...</b></i>"
+    },
+    "58": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "Train3.jpg",
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": null
+    },
+    "59": {
+        "ru": "Feels like I'm in a horror movie haha",
+        "choices": [
+            "60"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Me siento como si estuviera en una película de terror"
+    },
+    "60": {
+        "ru": "Wow... it sure does. I don't like this. It's very creepy",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Wow... sí, eso parecfe. No me gusta nada. Es creepy"
+    },
+    "61": {
+        "ru": "Yeah, me too!",
+        "choices": [
+            "62"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí, a mí tampoco me gusta estar aquí"
+    },
+    "62": {
+        "ru": "Get out of there and wait for the next one, hopefully more people will get in there",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Sal de ahí y espera al siguiente, ojalá entre más gente"
+    },
+    "63": {
+        "ru": "Not possible",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No, mo puedo"
+    },
+    "64": {
+        "ru": "It's already on its way",
+        "choices": [
+            "65"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "El tren ya ha dejado la estación"
+    },
+    "65": {
+        "ru": "But how do you even know is the right one? Are there any signs?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Pero cómo sabes que es el correcto? ¿Hay alguna señal?"
+    },
+    "66": {
+        "ru": "Not really. I told you signs don't seem to be working, I don't know why",
+        "choices": [
+            "67"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "La verdad es que no. Ya te dije que las pantallas no parecen funcionar, no sé por qué"
+    },
+    "67": {
+        "ru": "What if it's the wrong train?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Y si es el tren equivocado?"
+    },
+    "68": {
+        "ru": "This is where the employee sent me, it should be fine",
+        "choices": [
+            "69"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Aquí es donde me ha mandado el empleado, debería estar bien"
+    },
+    "69": {
+        "ru": "Was he a driver?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Era un conductor?"
+    },
+    "70": {
+        "ru": "No. I believe he was a janitor",
+        "choices": [
+            "71"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No. Creo que era conserje"
+    },
+    "71": {
+        "ru": "So he could have made a mistake",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Así que podría haber cometido un error"
+    },
+    "72": {
+        "ru": "I don't think so babe",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No lo creo, cariño"
+    },
+    "73": {
+        "ru": "These people know",
+        "choices": [
+            "74"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Esta gente lo sabe"
+    },
+    "74": {
+        "ru": "Perhaps there's more people in the train",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Tal vez haya más gente en el tren"
+    },
+    "75": {
+        "ru": "😐",
+        "choices": [
+            "76"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2.0,
+        "event": null,
+        "text": "😐"
+    },
+    "76": {
+        "ru": "Go look and ask them, please",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Ve a mirar y pregúntales, por favor"
+    },
+    "77": {
+        "ru": "Alright, I'll do it",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Está bien, lo haré"
+    },
+    "78": {
+        "ru": "But I don't think is such a big deal",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Pero no creo que sea para tanto"
+    },
+    "79": {
+        "ru": "The train did in fact arrived at the right time",
+        "choices": [
+            "80"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "De hecho, el tren llegó a la hora correcta"
+    },
+    "80": {
+        "ru": "Yes, but we're not a 100% is the one you need",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Sí, pero no estamos seguros de que es el tuyo"
+    },
+    "81": {
+        "ru": "I'm looking for people alright? Sorry if I go a bit quiet",
+        "choices": [
+            "82"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Estoy buscando a la gente, ¿vale? Perdona si voy un poco callado"
+    },
+    "82": {
+        "ru": "That's okay",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Está bien"
+    },
+    "83": {
+        "ru": "<i><b>5 minutes later...</b></i>",
+        "choices": [
+            "84"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 5.0,
+        "event": null,
+        "text": "<i><b>5 minutos después...</b></i>"
+    },
+    "84": {
+        "ru": "So?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué tal?"
+    },
+    "85": {
+        "ru": "There's nobody in here",
+        "choices": [
+            "86"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No hay nadie aquí"
+    },
+    "86": {
+        "ru": "I don't like this.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "No me gusta eso."
+    },
+    "87": {
+        "ru": "Relax, I'm about to ask the driver",
+        "choices": [
+            "88"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Tranquila, voy a preguntar al conductor"
+    },
+    "88": {
+        "ru": "Okay, just be careful, alright?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Vale, pero ten cuidado, ¿de acuerdo?"
+    },
+    "89": {
+        "ru": "Babe, there's no need to be so nervous",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Cariño, no te pongas tan nerviosa"
+    },
+    "90": {
+        "ru": "I'm the one in this creepy train but I'm fine",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Yo soy el que está en este tren espeluznante, pero estoy bien"
+    },
+    "91": {
+        "ru": "Just think that in an hour and half I'll be with you",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Piensa que en una hora y media estaré contigo"
+    },
+    "92": {
+        "ru": "Aren't you happy?",
+        "choices": [
+            "93"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "¿No estás contenta?"
+    },
+    "93": {
+        "ru": "Yes. I just don't want anything bad happening to you",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Sí. Es que no quiero que te pase nada malo"
+    },
+    "94": {
+        "ru": "Nothing bad will happen to me",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No me va a pasar nada malo"
+    },
+    "95": {
+        "ru": "I promise you",
+        "choices": [
+            "96"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Te lo prometo"
+    },
+    "96": {
+        "ru": "If you say so",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Si tú lo dices"
+    },
+    "97": {
+        "ru": "Just hold on, I can see the driver",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Espera un poco, veo al conductor"
+    },
+    "98": {
+        "ru": "<i><b>4 minutes later...</b></i>",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 5.0,
+        "event": null,
+        "text": "<i><b>4 minutos después...</b></i>"
+    },
+    "99": {
+        "ru": "Anna, I'm back",
+        "choices": [
+            "100"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Anna, estoy aquí"
+    },
+    "100": {
+        "ru": "How was it?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Cómo fue?"
+    },
+    "101": {
+        "ru": "He confirmed it was the train to your town",
+        "choices": [
+            "102"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Confirmó que el tren iba tu pueblo"
+    },
+    "102": {
+        "ru": "Oh thanks God! I was starting to worry",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡Oh, gracias a Dios! Me estaba empezando a preocupar"
+    },
+    "103": {
+        "ru": "Yeah",
+        "choices": [
+            "104"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Tranquila"
+    },
+    "104": {
+        "ru": "What else did you talk about?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿De qué más habéis hablado?"
+    },
+    "105": {
+        "ru": "Not much",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No mucho"
+    },
+    "106": {
+        "ru": "He was one of those drivers who really take seriously the DO NOT TALK TO THE DRIVER thing",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Era uno de esos conductores que realmente se toman en serio lo de NO HABLAR CON EL CONDUCTOR"
+    },
+    "107": {
+        "ru": "I just got to ask him if I was in the right train and that's it",
+        "choices": [
+            "108"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sólo conseguí preguntarle si iba en el tren correcto y ya está"
+    },
+    "108": {
+        "ru": "Oh that sucks",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Vaya, qué antipático"
+    },
+    "109": {
+        "ru": "Yeah",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí"
+    },
+    "110": {
+        "ru": "Anyways I'm sat a bit closer to him, in case I need to ask him something else",
+        "choices": [
+            "111"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "De todas formas me he sentado un poco más cerca de él, por si necesito preguntarle algo más"
+    },
+    "111": {
+        "ru": "That's good. Also, it's good to be closer to people",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Eso es bueno. También es bueno estar más cerca de la gente"
+    },
+    "112": {
+        "ru": "Yeah",
+        "choices": [
+            "113"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí"
+    },
+    "113": {
+        "ru": "Babe, are you okay?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Cariño, ¿estás bien?"
+    },
+    "114": {
+        "ru": "Yes, why do you ask?",
+        "choices": [
+            "115"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí, ¿por qué lo preguntas?"
+    },
+    "115": {
+        "ru": "I don't know, your answers... they are a bit different",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "No sé, tus respuestas... son un poco diferentes"
+    },
+    "116": {
+        "ru": "🤨",
+        "choices": [
+            "117"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2.0,
+        "event": null,
+        "text": "🤨"
+    },
+    "117": {
+        "ru": "You just sound a bit distant, I don't know...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Es que suenas un poco distante, no sé..."
+    },
+    "118": {
+        "ru": "I don't mean to, I'm sorry",
+        "choices": [
+            "119"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No era mi intención, lo siento"
+    },
+    "119": {
+        "ru": "But is everything alright?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Pero está todo bien?"
+    },
+    "120": {
+        "ru": "Yeah it's nothing",
+        "choices": [
+            "121"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sí, no pasa nada"
+    },
+    "121": {
+        "ru": "Come on, I know you. What is it?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Vamos, te conozco. ¿Qué pasa?"
+    },
+    "122": {
+        "ru": "It's probably nothing, it's just something about the driver I find weird",
+        "choices": [
+            "123"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Probablemente no sea nada, es algo del conductor que me parece raro"
+    },
+    "123": {
+        "ru": "What?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Por qué?"
+    },
+    "124": {
+        "ru": "He's wearing the exact same uniform as the janitor",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Lleva exactamente el mismo uniforme que el conserje"
+    },
+    "125": {
+        "ru": "That's usually not common",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Eso no suele ser común"
+    },
+    "126": {
+        "ru": "Train drivers tend to have a more formal uniform",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Los conductores suelen tener un uniforme más formal"
+    },
+    "127": {
+        "ru": "He also sounded just like the janitor",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "También sonaba igual que el conserje"
+    },
+    "128": {
+        "ru": "However, is not the same person. They looked different, the janitor was much older",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sin embargo, no es la misma persona. Parecían diferentes, el conserje era mucho mayor"
+    },
+    "129": {
+        "ru": "Maybe I'm overthinking",
+        "choices": [
+            "130"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Tal vez estoy pensando demasiado"
+    },
+    "130": {
+        "ru": "No, I don't think you are. I definitely think it's not usual",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "No, no creo que lo estés haciendo. Definitivamente creo que no es lo habitual"
+    },
+    "131": {
+        "ru": "You know I'm not the kind of person who gets scared easily",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sabes que no soy el tipo de persona que se asusta fácilmente"
+    },
+    "132": {
+        "ru": "But even the atmosphere feels weird",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Pero incluso el ambiente se siente raro"
+    },
+    "133": {
+        "ru": "I don't know",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No sé"
+    },
+    "134": {
+        "ru": "I feel very uncomfortable",
+        "choices": [
+            "135"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Me siento muy incómodo"
+    },
+    "135": {
+        "ru": "Is there a way for you to get out of that train soon?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Hay alguna forma de que salgas pronto de ese tren?"
+    },
+    "136": {
+        "ru": "I don't know when the next stop is",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No sé cuándo es la próxima parada"
+    },
+    "137": {
+        "ru": "And I doubt I can ask him",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Y dudo que pueda preguntarle al conductor"
+    },
+    "138": {
+        "ru": "I'm so nervous",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Estoy muy nervioso"
+    },
+    "139": {
+        "ru": "I don't really know if I'm hallucinating or what",
+        "choices": [
+            "140"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Realmente no sé si estoy alucinando o que"
+    },
+    "140": {
+        "ru": "Why?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Por qué?"
+    },
+    "141": {
+        "ru": "I'm hearing things",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Estoy escuchando cosas"
+    },
+    "142": {
+        "ru": "They are not so clear",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No son tan claras"
+    },
+    "143": {
+        "ru": "It's hard to understand because they sound far away but think I can hear laughing",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Es difícil de entender porque suenan lejos pero creo que oigo risas"
+    },
+    "144": {
+        "ru": "However, that can't be possible there's no one here but the driver and he's quiet",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Sin embargo, eso no puede ser posible, no hay nadie más que el conductor y ese está callado"
+    },
+    "145": {
+        "ru": "The laughs sound demoniac",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Las risas suenan demoníacas"
+    },
+    "146": {
+        "ru": "I can't stop sweating",
+        "choices": [
+            "147"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No puedo dejar de sudar"
+    },
+    "147": {
+        "ru": "Babe, what do you want me to do? Should I call the police?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Cariño, ¿qué quieres que haga? ¿Llamo a la policía?"
+    },
+    "148": {
+        "ru": "I don't know, what can they do now",
+        "choices": [
+            "149"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No sé si pueden hacer algo ahora"
+    },
+    "149": {
+        "ru": "They can try and track you, I don't know",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Pueden intentar localizarte, no lo sé"
+    },
+    "150": {
+        "ru": "He keeps looking at me Anna",
+        "choices": [
+            "151"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No deja de mirarme, Anna"
+    },
+    "151": {
+        "ru": "Who?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Quién?"
+    },
+    "152": {
+        "ru": "The driver, he keeps looking at me through the mirror but he won't talk to me",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "El conductor, no deja de mirarme por el retrovisor pero no me habla"
+    },
+    "153": {
+        "ru": "I wanna get out of here so bad!",
+        "choices": [
+            "154"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "¡Tengo muchas ganas de salir de aquí!"
+    },
+    "154": {
+        "ru": "That's it. I'm calling the police",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Ya está. Voy a llamar a la policía"
+    },
+    "155": {
+        "ru": "Hurry up, okay",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Date prisa, por favor"
+    },
+    "156": {
+        "ru": "He freaks me out so much",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Me pone muy nervioso"
+    },
+    "157": {
+        "ru": "Both the driver and the janitor have an odd appearance",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Tanto el conductor como el conserje tienen un aspecto extraño"
+    },
+    "158": {
+        "ru": "They look dirty and underweight",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Se ven sucios y con poco peso"
+    },
+    "159": {
+        "ru": "I hadn't noticed till now",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No me había dado cuenta hasta ahora"
+    },
+    "160": {
+        "ru": "Wait... the train stopped",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Espera... el tren se detuvo"
+    },
+    "161": {
+        "ru": "Holy shit, we stopped somewhere",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Mierda, nos hemos parado en algún sitio"
+    },
+    "162": {
+        "ru": "I doubt it's your town but I'm getting outta this thing now",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Dudo que sea tu pueblo, pero yo me bajo de esta cosa ahora"
+    },
+    "163": {
+        "ru": "I don't know where I am but it looks safe, there's people around",
+        "choices": [
+            "164"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No sé dónde estoy pero parece seguro, hay gente alrededor"
+    },
+    "164": {
+        "ru": "Josh I just called the police, I think you're in danger",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Josh, acabo de llamar a la policía, creo que estás en peligro"
+    },
+    "165": {
+        "ru": "What? Why?!",
+        "choices": [
+            "166"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "¿Qué? ¿¡Por qué?!"
+    },
+    "166": {
+        "ru": "They had a report earlier this week, a girl went missing on her way here",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Tuvieron una denuncia a principios de esta semana, una chica desapareció cuando venía hacia aquí"
+    },
+    "167": {
+        "ru": "😢",
+        "choices": [
+            "168"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2.0,
+        "event": null,
+        "text": "😢"
+    },
+    "168": {
+        "ru": "What happened prior her disappearance is similar to what you are going through. The station was empty,",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Lo que ocurrió antes de su desaparición es similar a lo que estás experienciando."
+    },
+    "169": {
+        "ru": "...",
+        "choices": [
+            "170"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 1.0,
+        "event": null,
+        "text": "..."
+    },
+    "170": {
+        "ru": "The station was empty, the train she took was empty, she even even mentioned a random driver too",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "La estación estaba vacía, el tren que tomó estaba vacío, incluso mencionó al conductor también."
+    },
+    "171": {
+        "ru": "😲",
+        "choices": [
+            "172"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2.0,
+        "event": null,
+        "text": "😲"
+    },
+    "172": {
+        "ru": "Last time she spoke to someone she said her train mysteriously stopped somewhere. After that she just vanished",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "La última vez que habló con alguien dijo que su tren se detuvo misteriosamente en algún sitio. Después de eso desapareció."
+    },
+    "173": {
+        "ru": "Fuck!",
+        "choices": [
+            "174"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "¡Mierda!"
+    },
+    "174": {
+        "ru": "I don't want you to end up like her. You need to leave!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "No quiero que acabes como ella. ¡Tienes que irte de allí!"
+    },
+    "175": {
+        "ru": "The train already left, I'm stuck here",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "El tren ya se fue, estoy atrapado aquí"
+    },
+    "176": {
+        "ru": "There's a group of people coming towards me. They are laughing",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Hay un grupo de personas que viene hacia mí. Se están riendo"
+    },
+    "177": {
+        "ru": "Wait",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Espera"
+    },
+    "178": {
+        "ru": "Oh no",
+        "choices": [
+            "179"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No, no, no"
+    },
+    "179": {
+        "ru": "What?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué pasa?"
+    },
+    "180": {
+        "ru": "They are wearing the same as the janitor and the driver",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Llevan la misma ropa que el conserje y el conductor"
+    },
+    "181": {
+        "ru": "It was all a trick",
+        "choices": [
+            "182"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Todo fue un truco"
+    },
+    "182": {
+        "ru": "Get away from them",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Aléjate de ellos"
+    },
+    "183": {
+        "ru": "There's many people around",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Hay mucha gente alrededor"
+    },
+    "184": {
+        "ru": "I can't escape",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "No puedo escapar"
+    },
+    "185": {
+        "ru": "Now their faces are changing, they look weird",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Ahora sus caras se están distorsionando, se ven raras"
+    },
+    "186": {
+        "ru": "They no longer look human, they are demo",
+        "choices": [
+            "187"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "Ya no parecen humanos, son demo"
+    },
+    "187": {
+        "ru": "Demons?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Demonios?"
+    },
+    "188": {
+        "ru": "...",
+        "choices": [
+            "189"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3.0,
+        "event": null,
+        "text": "..."
+    },
+    "189": {
+        "ru": "Josh? Babe! Please answer me!!! Please don't go",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Josh? ¡Cariño! ¡¡¡Contéstame por favor!!! Por favor, no te vayas"
+    }
+}

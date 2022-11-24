@@ -1,0 +1,2222 @@
+{
+    "0": {
+        "ru": "Hi mom",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Hola mamá"
+    },
+    "1": {
+        "ru": "Sorry to bother you, I just wanted to know if you're coming back soon",
+        "choices": [
+            "2"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Disculpa que te moleste, sólo quería saber si vas a volver pronto"
+    },
+    "2": {
+        "ru": "What are you doing awake at this time?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué haces despierta a estas horas?"
+    },
+    "3": {
+        "ru": "😔",
+        "choices": [
+            "4"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "😔"
+    },
+    "4": {
+        "ru": "It's past midnight. You should be in bed! There's school tomorrow!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Es pasada la medianoche.¡Deberías estar en la cama! Mañana tienes cole"
+    },
+    "5": {
+        "ru": "I know... I'm sorry",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Lo sé... Lo siento"
+    },
+    "6": {
+        "ru": "I just can't sleep",
+        "choices": [
+            "7"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Es que no puedo dormir"
+    },
+    "7": {
+        "ru": "Why not?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Por qué no?"
+    },
+    "8": {
+        "ru": "I got nervous",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Estoy nerviosa"
+    },
+    "9": {
+        "ru": "I keep hearing things",
+        "choices": [
+            "10"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Sigo escuchando cosas"
+    },
+    "10": {
+        "ru": "What sort of things? People?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué tipo de cosas? ¿Gente?"
+    },
+    "11": {
+        "ru": "Not exactly",
+        "choices": [
+            "12"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No exactamente"
+    },
+    "12": {
+        "ru": "Then?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Entonces?"
+    },
+    "13": {
+        "ru": "It's just noises, I don't really know",
+        "choices": [
+            "14"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Son sólo ruidos, no sé"
+    },
+    "14": {
+        "ru": "You know it's not very calm where we live. It's normal to hear things often",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Sabes que no es muy tranquilo donde vivimos. Es normal que se oigan cosas a menudo"
+    },
+    "15": {
+        "ru": "😞",
+        "choices": [
+            "16"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "😞"
+    },
+    "16": {
+        "ru": "But it's usually the neighbors or something",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Pero suelen ser los vecinos o algo así"
+    },
+    "17": {
+        "ru": "Sometimes the noises feel like they're inside the house",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "A veces los ruidos parecen estar dentro de la casa"
+    },
+    "18": {
+        "ru": "It's been like that for the last couple of weeks",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Desde hace un par de semanas es así"
+    },
+    "19": {
+        "ru": "It almost sounds like someone growling",
+        "choices": [
+            "20"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Casi suena como si alguien gruñera"
+    },
+    "20": {
+        "ru": "That has an explanation. The wind can often create those type of noises",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Eso tiene una explicación. El viento a menudo puede crear ese tipo de ruidos"
+    },
+    "21": {
+        "ru": "😢",
+        "choices": [
+            "22"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "😢"
+    },
+    "22": {
+        "ru": "Lina, you're 14 years old sweetie. You know that I'm busy at work and I won't be home until 2 AM, once the restaurant closes",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Lina, tienes 14 años, cariño. Sabes que estoy ocupada en el trabajo y no llegaré a casa hasta las 2 de la madrugada, una vez que cierre el restaurante"
+    },
+    "23": {
+        "ru": "😓",
+        "choices": [
+            "24"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "😓"
+    },
+    "24": {
+        "ru": "I gotta keep working",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Tengo que volver al trabajo"
+    },
+    "25": {
+        "ru": "Mom, you know I saw something the other day",
+        "choices": [
+            "26"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Mamá, sabes que el otro día vi algo"
+    },
+    "26": {
+        "ru": "That lady you said you saw the other night? You must have been asleep. Come on...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Esa señora que dijiste que viste la otra noche? Debes haber estado durmiendo. Vamos..."
+    },
+    "27": {
+        "ru": "But I wasn't!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¡Pero si no lo estaba!"
+    },
+    "28": {
+        "ru": "I couldn't sleep so I went to the bathroom",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No podía dormir así que fui al baño"
+    },
+    "29": {
+        "ru": "That's when I saw her about to enter Susie's room",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Ahí fue cuando la vi a punto de entrar en la habitación de Susie"
+    },
+    "30": {
+        "ru": "She was young and wore a white gown",
+        "choices": [
+            "31"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Era joven y llevaba una bata blanca"
+    },
+    "31": {
+        "ru": "You're too old to believe in ghosts, aren't you?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Eres demasiado mayor para creer en fantasmas, ¿no?"
+    },
+    "32": {
+        "ru": "But I really saw her!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¡Pero si la vi de verdad!"
+    },
+    "33": {
+        "ru": "And you know there's weird things happening lately",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Y sabes que últimamente están pasando cosas raras"
+    },
+    "34": {
+        "ru": "Somebody's been moving things around the house",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Alguien ha estado moviendo cosas por la casa"
+    },
+    "35": {
+        "ru": "Making them disappear",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Haciendo que desaparezcan"
+    },
+    "36": {
+        "ru": "Things that have a certain value for us",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Cosas que tienen cierto valor para nosotros"
+    },
+    "37": {
+        "ru": "First, Susie's favorite toy, the one she had since she was born",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Primero, el juguete favorito de Susie, el que tenía desde que nació"
+    },
+    "38": {
+        "ru": "Then the diary dad gave me before he moved to Canada",
+        "choices": [
+            "39"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Después, el diario que me regaló papá antes de mudarse a Canadá"
+    },
+    "39": {
+        "ru": "It's probably your sister playing. She's only 4… That's what kids do all the time",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Seguramente es tu hermana la que juega. Sólo tiene 4 años… Los niños lo hacen todo el tiempo"
+    },
+    "40": {
+        "ru": "But mom you know the lady spoke to me",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Pero mamá sabes que la señora me habló"
+    },
+    "41": {
+        "ru": "You know what she said!",
+        "choices": [
+            "42"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¡Sabes lo que dijo!"
+    },
+    "42": {
+        "ru": "For the last time, you were dreaming! Alright, I'll see you later",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡Por última vez, estabas soñando! Vale, nos vemos luego"
+    },
+    "43": {
+        "ru": "Wait",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "Espera"
+    },
+    "44": {
+        "ru": "There is something going on",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Algo no está bien"
+    },
+    "45": {
+        "ru": "I just heard something",
+        "choices": [
+            "46"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Acabo de escuchar algo"
+    },
+    "46": {
+        "ru": "It must be your sister having a nightmare",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Debe de ser tu hermana que tiene una pesadilla"
+    },
+    "47": {
+        "ru": "No, it came from downstairs",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No, viene de abajo"
+    },
+    "48": {
+        "ru": "I need to go check",
+        "choices": [
+            "49"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Voy a ver"
+    },
+    "49": {
+        "ru": "Okay, be careful",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Vale, ten cuidado"
+    },
+    "50": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "bow1.jpg",
+        "voice": null,
+        "delay": 5,
+        "event": null,
+        "text": null
+    },
+    "51": {
+        "ru": "Mom, the front door was open",
+        "choices": [
+            "52"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Mamá, la puerta principal estaba abierta"
+    },
+    "52": {
+        "ru": "What? That's so irresponsible!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué? ¡Eso es tan irresponsable!"
+    },
+    "53": {
+        "ru": "😢",
+        "choices": [
+            "54"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "😢"
+    },
+    "54": {
+        "ru": "Lina, you need to be careful. You know the door needs to be locked AT ALL TIMES. You want someone to get in or what?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Lina, tienes que tener más cuidado. Sabes que la puerta debe estar cerrada SIEMPRE. ¿Quieres que alguien entre o qué?"
+    },
+    "55": {
+        "ru": "Mom, I think someone's already in",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Mamá, creo que ya ha entrado alguien"
+    },
+    "56": {
+        "ru": "The door was locked",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "La puerta estaba cerrada con llave"
+    },
+    "57": {
+        "ru": "I'm sure",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "Estoy segura de eso"
+    },
+    "58": {
+        "ru": "You know I always lock it",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Sabes que siempre la cierro con llave"
+    },
+    "59": {
+        "ru": "It was opening and closing on its own but there's no wind, I have never seen that before",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Se abría y cerraba sola pero no había viento, nunca había visto eso"
+    },
+    "60": {
+        "ru": "I just heard a scream",
+        "choices": [
+            "61"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Acabo de escuchar un grito"
+    },
+    "61": {
+        "ru": "You need to go check on your sister. Quick!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Tienes que ir a ver a tu hermana ¡Vamos!"
+    },
+    "62": {
+        "ru": "I'm so scared",
+        "choices": [
+            "63"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Tengo mucho miedo"
+    },
+    "63": {
+        "ru": "Please, you need to go check on her!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡Por favor, tienes que ir a ver cómo está!"
+    },
+    "64": {
+        "ru": "<i><b>3 minutes later...</b></i>",
+        "choices": [
+            "65"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "<i><b>3 minutos después...</b></i>"
+    },
+    "65": {
+        "ru": "Lina? How's everything?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Lina? ¿Cómo va todo?"
+    },
+    "66": {
+        "ru": "...",
+        "choices": [
+            "67"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "..."
+    },
+    "67": {
+        "ru": "Are you okay?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Estás bien?"
+    },
+    "68": {
+        "ru": "I can't find her",
+        "choices": [
+            "69"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No la encuentro"
+    },
+    "69": {
+        "ru": "What do you mean?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué quieres decir?"
+    },
+    "70": {
+        "ru": "She vanished",
+        "choices": [
+            "71"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No está"
+    },
+    "71": {
+        "ru": "She has got to be there!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡Tiene que estar ahí!"
+    },
+    "72": {
+        "ru": null,
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "bow2.jpg",
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": null
+    },
+    "73": {
+        "ru": "She's not in bed anymore",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Ya no está en la cama"
+    },
+    "74": {
+        "ru": "Last time I checked she was sleeping",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "La última vez que lo comprobé estaba durmiendo"
+    },
+    "75": {
+        "ru": "I'm calling her but she's not responding",
+        "choices": [
+            "76"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "La estoy llamando pero no responde"
+    },
+    "76": {
+        "ru": "I'm calling the police",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Voy a llamar a la policía"
+    },
+    "77": {
+        "ru": "Mom",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "Mamá"
+    },
+    "78": {
+        "ru": "The lights keep messing up",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Las luces no paran de parpadear"
+    },
+    "79": {
+        "ru": "There's something weird going on",
+        "choices": [
+            "80"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Algo raro está pasando"
+    },
+    "80": {
+        "ru": "Lina, there's no time for that! Somebody could have taken your sister",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Lina, no hay tiempo para eso! Alguien podría haberse llevado a tu hermana"
+    },
+    "81": {
+        "ru": "Mom, it's her fault",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Mamá, es ella"
+    },
+    "82": {
+        "ru": "The lady I saw, she's the one who took Susie",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "La señora que vi es ella que se llevó a Susie"
+    },
+    "83": {
+        "ru": "And you know what that means?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¿Y sabes lo que eso significa?"
+    },
+    "84": {
+        "ru": "I'm next",
+        "choices": [
+            "85"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Yo soy la siguiente"
+    },
+    "85": {
+        "ru": "Lina, please stop this",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Lina, por favor, déjate de tonterías, anda"
+    },
+    "86": {
+        "ru": "Mom, you know it's true",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Mamá, sabes que es verdad"
+    },
+    "87": {
+        "ru": "I'll take her, and I'll take you too, she said.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "La llevaré, y te llevaré a ti también, es lo que dijo"
+    },
+    "88": {
+        "ru": "She looked at me with her black eyes and said it before vanishing",
+        "choices": [
+            "89"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Me miró con sus ojos negros y lo dijo antes de desaparecer"
+    },
+    "89": {
+        "ru": "Your sister has possibly been kidnapped and you're there speaking nonsense",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Tu hermana posiblemente ha sido secuestrada y tú estás ahí diciendo tonterías"
+    },
+    "90": {
+        "ru": "Mommy, it's not nonsense",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Mamá, no son tonterías"
+    },
+    "91": {
+        "ru": "I swear! The lady was real!",
+        "choices": [
+            "92"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¡Lo juro! La señora era de verdad"
+    },
+    "92": {
+        "ru": "I understand you're afraid but believing this? Ghosts aren't real!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Entiendo que tengas miedo pero ¿creer eso? ¡Los fantasmas no existen!"
+    },
+    "93": {
+        "ru": "😰",
+        "choices": [
+            "94"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "😰"
+    },
+    "94": {
+        "ru": "And even if they were they can't just make someone disappear like that",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Y aunque existieran no pueden hacer desaparecer a alguien"
+    },
+    "95": {
+        "ru": "I don't know what to do, I got the feeling something bad is going to happen to me",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No sé qué hacer, tengo la sensación de que algo malo me va a pasar"
+    },
+    "96": {
+        "ru": "Remember what I told you earlier? Things that have a meaning to us are disappearing",
+        "choices": [
+            "97"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¿Recuerdas lo que te dije antes? Las cosas que tienen un significado para nosotros están desapareciendo"
+    },
+    "97": {
+        "ru": "Nothing bad will happen to you",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "No te va a pasar nada malo"
+    },
+    "98": {
+        "ru": "😭",
+        "choices": [
+            "99"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "😭"
+    },
+    "99": {
+        "ru": "Listen, be careful. We don't know who took Susie or why but he might still be in the house",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Escúchame, ten cuidado. No sabemos quién se llevó a Susie ni por qué, pero puede que siga en la casa"
+    },
+    "100": {
+        "ru": "I'm so scared mom!",
+        "choices": [
+            "101"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¡Mamá, tengo mucho miedo!"
+    },
+    "101": {
+        "ru": "So you need to be quiet and don't move from where you are! I already called the police, you just have to wait for them",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Tienes que estar tranquila y no moverte de donde estás! Ya he llamado a la policía, sólo tienes que esperarles"
+    },
+    "102": {
+        "ru": "What about you?",
+        "choices": [
+            "103"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¿Y tú?"
+    },
+    "103": {
+        "ru": "I'm also on my way. My friend Sheila is about to drive me home.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Yo también estoy en camino. Mi amiga Sheila está a punto de llevarme a casa."
+    },
+    "104": {
+        "ru": "How long is that gonna take?",
+        "choices": [
+            "105"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¿Cuánto tiempo vas a tardar?"
+    },
+    "105": {
+        "ru": "15 minutes if we're quick",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "15 minutos si vamos rápido"
+    },
+    "106": {
+        "ru": "Mom, I'm afraid",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¡Mamá, tengo mucho miedo!"
+    },
+    "107": {
+        "ru": "I can hear things again",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Oigo cosas de nuevo"
+    },
+    "108": {
+        "ru": "It's coming from outside this room",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Viene de fuera de esta habitación"
+    },
+    "109": {
+        "ru": "Sounds as if someone was playing with the door again",
+        "choices": [
+            "110"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Suena como si alguien estuviera jugando con la puerta de nuevo"
+    },
+    "110": {
+        "ru": "Try to remain calm, remember. Please try to hide somewhere in the room",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Intenta mantener la calma. Por favor, intenta esconderte en algún lugar de la habitación"
+    },
+    "111": {
+        "ru": "It's the growling noises again...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Son los gruñidos de nuevo..."
+    },
+    "112": {
+        "ru": "Mom' she's gonna take me!",
+        "choices": [
+            "113"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¡Mamá se me va a llevar!"
+    },
+    "113": {
+        "ru": "Sweetie the police will be there soon and so will I",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Cariño, la policía llegará pronto y yo también"
+    },
+    "114": {
+        "ru": "That's not enough",
+        "choices": [
+            "115"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No, you no tengo tanto tiempo"
+    },
+    "115": {
+        "ru": "What do you mean?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué quieres decir?"
+    },
+    "116": {
+        "ru": "Neither of you will make it in time",
+        "choices": [
+            "117"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Ninguno de los dos llegará a tiempo"
+    },
+    "117": {
+        "ru": "Why? Why are you saying that Lina?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Por qué? ¿Por qué dices eso Lina?"
+    },
+    "118": {
+        "ru": "Because she's already here",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Porque ella ya está aquí"
+    },
+    "119": {
+        "ru": "She just needs to find me",
+        "choices": [
+            "120"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Sólo tiene que encontrarme"
+    },
+    "120": {
+        "ru": "I don't even know what to tell you anymore.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Ya no sé ni qué decirte."
+    },
+    "121": {
+        "ru": "...",
+        "choices": [
+            "122"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "..."
+    },
+    "122": {
+        "ru": "But if there's someone in the house and someone took your sister I am sure it wasn't a ghost",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Pero si hay alguien en la casa y alguien se llevó a tu hermana estoy seguro que no fue un fantasma"
+    },
+    "123": {
+        "ru": "...",
+        "choices": [
+            "124"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 2,
+        "event": null,
+        "text": "..."
+    },
+    "124": {
+        "ru": "It's always the living who do things like this",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Siempre son los vivos los que hacen cosas así"
+    },
+    "125": {
+        "ru": "That's what people who have never experienced paranormal things say",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Eso es lo que dice la gente que nunca ha experimentado cosas paranormales"
+    },
+    "126": {
+        "ru": "They always think you're lying",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Siempre piensan que les estás mintiendo"
+    },
+    "127": {
+        "ru": "Just like you now",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Como tú ahora"
+    },
+    "128": {
+        "ru": "But why would I make this up?",
+        "choices": [
+            "129"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "¿Pero por qué iba a inventarme eso?"
+    },
+    "129": {
+        "ru": "I'm not calling you a liar",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "No te estoy llamando mentirosa"
+    },
+    "130": {
+        "ru": "But you don't believe me either",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Pero tampoco me crees"
+    },
+    "131": {
+        "ru": "But I know this is just like yesterday",
+        "choices": [
+            "132"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Pero sé que esto es como ayer"
+    },
+    "132": {
+        "ru": "How?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Cómo?"
+    },
+    "133": {
+        "ru": "Me not being able to sleep, then the sounds, the lights",
+        "choices": [
+            "134"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Yo sin poder dormir, luego los sonidos, las luces"
+    },
+    "134": {
+        "ru": "Which lights?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué luces?"
+    },
+    "135": {
+        "ru": "I tried to tell you but you didn't listen",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Traté de decírtelo pero no me escuchaste"
+    },
+    "136": {
+        "ru": "The lights around the house are acting up",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Las luces de la casa, alguien las está manipulando"
+    },
+    "137": {
+        "ru": "Just like the door was",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Al igual que la puerta"
+    },
+    "138": {
+        "ru": "It's a sign",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Es una señal"
+    },
+    "139": {
+        "ru": "I don't have too long",
+        "choices": [
+            "140"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No tengo mucho tiempo"
+    },
+    "140": {
+        "ru": "Don't say that! That's not the case",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡No digas eso! No es el caso"
+    },
+    "141": {
+        "ru": "...",
+        "choices": [
+            "142"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "..."
+    },
+    "142": {
+        "ru": "You hear me? That's not going to happen!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Me escuchas? ¡Eso no va a pasar!"
+    },
+    "143": {
+        "ru": "Even the air feels odd...",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Hasta el aire se siente raro..."
+    },
+    "144": {
+        "ru": "I know it's only summer but it's getting cold in here",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Sé que sólo es verano, pero está helando aquí"
+    },
+    "145": {
+        "ru": "Oh no",
+        "choices": [
+            "146"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No no no"
+    },
+    "146": {
+        "ru": "What?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué pasa?"
+    },
+    "147": {
+        "ru": "It's the lights they aren't working anymore",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Son las luces, se ha ido la luz"
+    },
+    "148": {
+        "ru": "I can't see anything but my cell phone screen",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No puedo ver nada más que la pantalla de mi móvil"
+    },
+    "149": {
+        "ru": "This room is too dark",
+        "choices": [
+            "150"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "La habitación está demasiado oscura"
+    },
+    "150": {
+        "ru": "You have to stay there anyways! I will be there in 10 minutes",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡De todas formas tienes que quedarte ahí! Llegaré en 10 minutos"
+    },
+    "151": {
+        "ru": "Mom please",
+        "choices": [
+            "152"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Mamá, por favor"
+    },
+    "152": {
+        "ru": "I'm sure the police will show up even sooner",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Estoy segura de que la policía aparecerá incluso antes"
+    },
+    "153": {
+        "ru": "There's something going on in this room",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Hay algo en esta habitación"
+    },
+    "154": {
+        "ru": "I'm sorry mom",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Lo siento mucho, mamá"
+    },
+    "155": {
+        "ru": "I can't stay here",
+        "choices": [
+            "156"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "No puedo quedarme aquí"
+    },
+    "156": {
+        "ru": "Lina don't! It's dangerous",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡Lina, no! Es peligroso"
+    },
+    "157": {
+        "ru": "She was in the room with me mom. I could feel it",
+        "choices": [
+            "158"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Estaba en la habitación conmigo mamá. Pude sentirlo"
+    },
+    "158": {
+        "ru": "Where are you?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Dónde estás?"
+    },
+    "159": {
+        "ru": "I'm trying to leave the house",
+        "choices": [
+            "160"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Estoy tratando de salir de la casa"
+    },
+    "160": {
+        "ru": "Alright, that might be a good idea. Just be careful",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "Vale, puede ser una buena idea. Sólo ten cuidado"
+    },
+    "161": {
+        "ru": "Mom",
+        "choices": [
+            "162"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Mamá"
+    },
+    "162": {
+        "ru": "What?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué?"
+    },
+    "163": {
+        "ru": null,
+        "choices": [
+            "164"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": "bow3.jpg",
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": null
+    },
+    "164": {
+        "ru": "What? Who's that?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Qué? ¿Quién es?"
+    },
+    "165": {
+        "ru": "Its ghgjghkl",
+        "choices": [
+            "166"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "Its ghgjghkl"
+    },
+    "166": {
+        "ru": "Lina? Sweetie?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Lina? ¿Cariño?"
+    },
+    "167": {
+        "ru": "...",
+        "choices": [
+            "168"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "..."
+    },
+    "168": {
+        "ru": "Answer! Come on!",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¡Contéstame! ¡Vamos!"
+    },
+    "169": {
+        "ru": "...",
+        "choices": [
+            "170"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 3,
+        "event": null,
+        "text": "..."
+    },
+    "170": {
+        "ru": "Why aren't you answering? Could it really be?",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "¿Por qué no me contestas? ¿Podría ser?"
+    },
+    "171": {
+        "ru": "<i><b>5 minutes later...</b></i>",
+        "choices": [
+            "172"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 5,
+        "event": null,
+        "text": "<i><b>5 minutos después...</b></i>"
+    },
+    "172": {
+        "ru": "The police just called me they said they didn't find you or your sister at home. No visible traces of anything either.",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "La policía me acaba de llamar dicen que no os han encontrado ni a ti ni a tu hermana en casa. Tampoco hay rastros visibles de nada."
+    },
+    "173": {
+        "ru": "...",
+        "choices": [
+            "174"
+        ],
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": 1,
+        "event": null,
+        "text": "..."
+    },
+    "174": {
+        "ru": "Only clue we have is the woman in the picture... I wish I should have listened sooner",
+        "choices": null,
+        "choices_param": null,
+        "jump_id": null,
+        "sticker": null,
+        "photo": null,
+        "voice": null,
+        "delay": null,
+        "event": null,
+        "text": "La única pista que tenemos es la mujer de la foto... Ojalá te hubiera escuchado antes."
+    }
+}

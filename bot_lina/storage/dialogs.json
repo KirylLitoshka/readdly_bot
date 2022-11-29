@@ -6,8 +6,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Hola mamá"
     },
@@ -20,8 +20,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Disculpa que te moleste, sólo quería saber si vas a volver pronto"
     },
@@ -32,8 +32,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué haces despierta a estas horas?"
     },
@@ -46,8 +46,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "😔"
     },
@@ -58,8 +58,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Es pasada la medianoche.¡Deberías estar en la cama! Mañana tienes cole"
     },
@@ -70,8 +70,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Lo sé... Lo siento"
     },
@@ -84,8 +84,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Es que no puedo dormir"
     },
@@ -96,8 +96,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Por qué no?"
     },
@@ -108,8 +108,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Estoy nerviosa"
     },
@@ -122,8 +122,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Sigo escuchando cosas"
     },
@@ -134,8 +134,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué tipo de cosas? ¿Gente?"
     },
@@ -148,8 +148,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No exactamente"
     },
@@ -160,8 +160,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Entonces?"
     },
@@ -174,8 +174,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Son sólo ruidos, no sé"
     },
@@ -186,8 +186,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Sabes que no es muy tranquilo donde vivimos. Es normal que se oigan cosas a menudo"
     },
@@ -200,8 +200,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "😞"
     },
@@ -212,8 +212,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Pero suelen ser los vecinos o algo así"
     },
@@ -224,8 +224,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "A veces los ruidos parecen estar dentro de la casa"
     },
@@ -236,8 +236,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Desde hace un par de semanas es así"
     },
@@ -250,8 +250,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Casi suena como si alguien gruñera"
     },
@@ -262,8 +262,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Eso tiene una explicación. El viento a menudo puede crear ese tipo de ruidos"
     },
@@ -276,8 +276,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "😢"
     },
@@ -288,10 +288,10 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
-        "text": "Lina, tienes 14 años, cariño. Sabes que estoy ocupada en el trabajo y no llegaré a casa hasta las 2 de la madrugada, una vez que cierre el restaurante"
+        "text": "Lina, tienes 14 años, cariño. Sabes que estoy ocupada en el trabajo y no llegaré a casa hasta las 2 de la madrugada."
     },
     "23": {
         "ru": "😓",
@@ -302,8 +302,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "😓"
     },
@@ -314,8 +314,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Tengo que volver al trabajo"
     },
@@ -328,8 +328,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Mamá, sabes que el otro día vi algo"
     },
@@ -340,8 +340,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Esa señora que dijiste que viste la otra noche? Debes haber estado durmiendo. Vamos..."
     },
@@ -352,8 +352,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¡Pero si no lo estaba!"
     },
@@ -364,8 +364,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No podía dormir así que fui al baño"
     },
@@ -376,8 +376,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Ahí fue cuando la vi a punto de entrar en la habitación de Susie"
     },
@@ -390,8 +390,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Era joven y llevaba una bata blanca"
     },
@@ -402,8 +402,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Eres demasiado mayor para creer en fantasmas, ¿no?"
     },
@@ -414,8 +414,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¡Pero si la vi de verdad!"
     },
@@ -426,8 +426,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Y sabes que últimamente están pasando cosas raras"
     },
@@ -438,8 +438,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Alguien ha estado moviendo cosas por la casa"
     },
@@ -450,8 +450,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Haciendo que desaparezcan"
     },
@@ -462,8 +462,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Cosas que tienen cierto valor para nosotros"
     },
@@ -474,8 +474,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Primero, el juguete favorito de Susie, el que tenía desde que nació"
     },
@@ -488,8 +488,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Después, el diario que me regaló papá antes de mudarse a Canadá"
     },
@@ -500,8 +500,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Seguramente es tu hermana la que juega. Sólo tiene 4 años… Los niños lo hacen todo el tiempo"
     },
@@ -512,8 +512,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Pero mamá sabes que la señora me habló"
     },
@@ -526,8 +526,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¡Sabes lo que dijo!"
     },
@@ -538,8 +538,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¡Por última vez, estabas soñando! Vale, nos vemos luego"
     },
@@ -550,8 +550,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "Espera"
     },
@@ -562,8 +562,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Algo no está bien"
     },
@@ -576,8 +576,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Acabo de escuchar algo"
     },
@@ -588,8 +588,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Debe de ser tu hermana que tiene una pesadilla"
     },
@@ -600,8 +600,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No, viene de abajo"
     },
@@ -614,8 +614,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Voy a ver"
     },
@@ -626,8 +626,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Vale, ten cuidado"
     },
@@ -638,8 +638,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": "bow1.jpg",
+        "delay": 5.0,
         "voice": null,
-        "delay": 5,
         "event": null,
         "text": null
     },
@@ -652,8 +652,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Mamá, la puerta principal estaba abierta"
     },
@@ -664,8 +664,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué? ¡Eso es tan irresponsable!"
     },
@@ -678,8 +678,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "😢"
     },
@@ -690,8 +690,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Lina, tienes que tener más cuidado. Sabes que la puerta debe estar cerrada SIEMPRE. ¿Quieres que alguien entre o qué?"
     },
@@ -702,8 +702,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Mamá, creo que ya ha entrado alguien"
     },
@@ -714,8 +714,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "La puerta estaba cerrada con llave"
     },
@@ -726,8 +726,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "Estoy segura de eso"
     },
@@ -738,8 +738,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Sabes que siempre la cierro con llave"
     },
@@ -750,8 +750,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Se abría y cerraba sola pero no había viento, nunca había visto eso"
     },
@@ -764,8 +764,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Acabo de escuchar un grito"
     },
@@ -776,8 +776,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Tienes que ir a ver a tu hermana ¡Vamos!"
     },
@@ -790,8 +790,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Tengo mucho miedo"
     },
@@ -802,8 +802,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¡Por favor, tienes que ir a ver cómo está!"
     },
@@ -816,8 +816,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "<i><b>3 minutos después...</b></i>"
     },
@@ -828,8 +828,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Lina? ¿Cómo va todo?"
     },
@@ -842,8 +842,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "..."
     },
@@ -854,8 +854,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Estás bien?"
     },
@@ -868,8 +868,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No la encuentro"
     },
@@ -880,8 +880,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué quieres decir?"
     },
@@ -894,8 +894,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No está"
     },
@@ -906,8 +906,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¡Tiene que estar ahí!"
     },
@@ -918,8 +918,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": "bow2.jpg",
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": null
     },
@@ -930,8 +930,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Ya no está en la cama"
     },
@@ -942,8 +942,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "La última vez que lo comprobé estaba durmiendo"
     },
@@ -956,8 +956,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "La estoy llamando pero no responde"
     },
@@ -968,8 +968,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Voy a llamar a la policía"
     },
@@ -980,8 +980,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "Mamá"
     },
@@ -992,8 +992,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Las luces no paran de parpadear"
     },
@@ -1006,8 +1006,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Algo raro está pasando"
     },
@@ -1018,8 +1018,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Lina, no hay tiempo para eso! Alguien podría haberse llevado a tu hermana"
     },
@@ -1030,8 +1030,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Mamá, es ella"
     },
@@ -1042,8 +1042,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "La señora que vi es ella que se llevó a Susie"
     },
@@ -1054,8 +1054,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¿Y sabes lo que eso significa?"
     },
@@ -1068,8 +1068,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Yo soy la siguiente"
     },
@@ -1080,8 +1080,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Lina, por favor, déjate de tonterías, anda"
     },
@@ -1092,8 +1092,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Mamá, sabes que es verdad"
     },
@@ -1104,8 +1104,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "La llevaré, y te llevaré a ti también, es lo que dijo"
     },
@@ -1118,8 +1118,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Me miró con sus ojos negros y lo dijo antes de desaparecer"
     },
@@ -1130,8 +1130,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Tu hermana posiblemente ha sido secuestrada y tú estás ahí diciendo tonterías"
     },
@@ -1142,8 +1142,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Mamá, no son tonterías"
     },
@@ -1156,8 +1156,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¡Lo juro! La señora era de verdad"
     },
@@ -1168,8 +1168,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Entiendo que tengas miedo pero ¿creer eso? ¡Los fantasmas no existen!"
     },
@@ -1182,8 +1182,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "😰"
     },
@@ -1194,8 +1194,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Y aunque existieran no pueden hacer desaparecer a alguien"
     },
@@ -1206,8 +1206,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No sé qué hacer, tengo la sensación de que algo malo me va a pasar"
     },
@@ -1220,8 +1220,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¿Recuerdas lo que te dije antes? Las cosas que tienen un significado para nosotros están desapareciendo"
     },
@@ -1232,8 +1232,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "No te va a pasar nada malo"
     },
@@ -1246,8 +1246,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "😭"
     },
@@ -1258,8 +1258,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Escúchame, ten cuidado. No sabemos quién se llevó a Susie ni por qué, pero puede que siga en la casa"
     },
@@ -1272,8 +1272,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¡Mamá, tengo mucho miedo!"
     },
@@ -1284,8 +1284,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Tienes que estar tranquila y no moverte de donde estás! Ya he llamado a la policía, sólo tienes que esperarles"
     },
@@ -1298,8 +1298,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¿Y tú?"
     },
@@ -1310,8 +1310,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Yo también estoy en camino. Mi amiga Sheila está a punto de llevarme a casa."
     },
@@ -1324,8 +1324,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¿Cuánto tiempo vas a tardar?"
     },
@@ -1336,8 +1336,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "15 minutos si vamos rápido"
     },
@@ -1348,8 +1348,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¡Mamá, tengo mucho miedo!"
     },
@@ -1360,8 +1360,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Oigo cosas de nuevo"
     },
@@ -1372,8 +1372,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Viene de fuera de esta habitación"
     },
@@ -1386,8 +1386,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Suena como si alguien estuviera jugando con la puerta de nuevo"
     },
@@ -1398,8 +1398,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Intenta mantener la calma. Por favor, intenta esconderte en algún lugar de la habitación"
     },
@@ -1410,8 +1410,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Son los gruñidos de nuevo..."
     },
@@ -1424,8 +1424,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¡Mamá se me va a llevar!"
     },
@@ -1436,8 +1436,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Cariño, la policía llegará pronto y yo también"
     },
@@ -1450,8 +1450,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No, you no tengo tanto tiempo"
     },
@@ -1462,8 +1462,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué quieres decir?"
     },
@@ -1476,8 +1476,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Ninguno de los dos llegará a tiempo"
     },
@@ -1488,8 +1488,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Por qué? ¿Por qué dices eso Lina?"
     },
@@ -1500,8 +1500,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Porque ella ya está aquí"
     },
@@ -1514,8 +1514,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Sólo tiene que encontrarme"
     },
@@ -1526,8 +1526,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Ya no sé ni qué decirte."
     },
@@ -1540,8 +1540,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "..."
     },
@@ -1552,8 +1552,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Pero si hay alguien en la casa y alguien se llevó a tu hermana estoy seguro que no fue un fantasma"
     },
@@ -1566,8 +1566,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 2.0,
         "voice": null,
-        "delay": 2,
         "event": null,
         "text": "..."
     },
@@ -1578,8 +1578,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Siempre son los vivos los que hacen cosas así"
     },
@@ -1590,8 +1590,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Eso es lo que dice la gente que nunca ha experimentado cosas paranormales"
     },
@@ -1602,8 +1602,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Siempre piensan que les estás mintiendo"
     },
@@ -1614,8 +1614,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Como tú ahora"
     },
@@ -1628,8 +1628,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "¿Pero por qué iba a inventarme eso?"
     },
@@ -1640,8 +1640,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "No te estoy llamando mentirosa"
     },
@@ -1652,8 +1652,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Pero tampoco me crees"
     },
@@ -1666,8 +1666,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Pero sé que esto es como ayer"
     },
@@ -1678,8 +1678,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Cómo?"
     },
@@ -1692,8 +1692,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Yo sin poder dormir, luego los sonidos, las luces"
     },
@@ -1704,8 +1704,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué luces?"
     },
@@ -1716,8 +1716,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Traté de decírtelo pero no me escuchaste"
     },
@@ -1728,8 +1728,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Las luces de la casa, alguien las está manipulando"
     },
@@ -1740,8 +1740,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Al igual que la puerta"
     },
@@ -1752,8 +1752,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Es una señal"
     },
@@ -1766,8 +1766,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No tengo mucho tiempo"
     },
@@ -1778,8 +1778,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¡No digas eso! No es el caso"
     },
@@ -1792,8 +1792,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "..."
     },
@@ -1804,8 +1804,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Me escuchas? ¡Eso no va a pasar!"
     },
@@ -1816,8 +1816,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Hasta el aire se siente raro..."
     },
@@ -1828,8 +1828,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Sé que sólo es verano, pero está helando aquí"
     },
@@ -1842,8 +1842,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No no no"
     },
@@ -1854,8 +1854,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué pasa?"
     },
@@ -1866,8 +1866,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Son las luces, se ha ido la luz"
     },
@@ -1878,8 +1878,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No puedo ver nada más que la pantalla de mi móvil"
     },
@@ -1892,8 +1892,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "La habitación está demasiado oscura"
     },
@@ -1904,8 +1904,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¡De todas formas tienes que quedarte ahí! Llegaré en 10 minutos"
     },
@@ -1918,8 +1918,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Mamá, por favor"
     },
@@ -1930,8 +1930,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Estoy segura de que la policía aparecerá incluso antes"
     },
@@ -1942,8 +1942,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Hay algo en esta habitación"
     },
@@ -1954,8 +1954,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Lo siento mucho, mamá"
     },
@@ -1968,8 +1968,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "No puedo quedarme aquí"
     },
@@ -1980,8 +1980,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¡Lina, no! Es peligroso"
     },
@@ -1994,8 +1994,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Estaba en la habitación conmigo mamá. Pude sentirlo"
     },
@@ -2006,8 +2006,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Dónde estás?"
     },
@@ -2020,8 +2020,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Estoy tratando de salir de la casa"
     },
@@ -2032,8 +2032,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "Vale, puede ser una buena idea. Sólo ten cuidado"
     },
@@ -2046,8 +2046,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Mamá"
     },
@@ -2058,8 +2058,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué?"
     },
@@ -2072,8 +2072,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": "bow3.jpg",
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": null
     },
@@ -2084,8 +2084,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Qué? ¿Quién es?"
     },
@@ -2098,8 +2098,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "Its ghgjghkl"
     },
@@ -2110,8 +2110,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Lina? ¿Cariño?"
     },
@@ -2124,8 +2124,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "..."
     },
@@ -2136,8 +2136,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¡Contéstame! ¡Vamos!"
     },
@@ -2150,8 +2150,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 3.0,
         "voice": null,
-        "delay": 3,
         "event": null,
         "text": "..."
     },
@@ -2162,8 +2162,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "¿Por qué no me contestas? ¿Podría ser?"
     },
@@ -2176,8 +2176,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 5.0,
         "voice": null,
-        "delay": 5,
         "event": null,
         "text": "<i><b>5 minutos después...</b></i>"
     },
@@ -2188,8 +2188,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "La policía me acaba de llamar dicen que no os han encontrado ni a ti ni a tu hermana en casa. Tampoco hay rastros visibles de nada."
     },
@@ -2202,8 +2202,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
+        "delay": 1.0,
         "voice": null,
-        "delay": 1,
         "event": null,
         "text": "..."
     },
@@ -2214,8 +2214,8 @@
         "jump_id": null,
         "sticker": null,
         "photo": null,
-        "voice": null,
         "delay": null,
+        "voice": null,
         "event": null,
         "text": "La única pista que tenemos es la mujer de la foto... Ojalá te hubiera escuchado antes."
     }

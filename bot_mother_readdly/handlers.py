@@ -18,11 +18,19 @@ async def create_new_user(user_id, users_storage):
 async def show_menu(message: types.Message):
     await message.answer(
         text="""
-        Hola! Elige una de las historias e inicia un diálogo interactivo
-        1. <b>Una noche solitaria</b> — Una noche solitaria en el hostal donde trabaja Reina, en una compañía intimidante.
-        2. <b>Atención a las señales</b> — Una madre soltera que se va a trabajar deja a sus hijas en casa donde ocurren cosas que hielan la sangre.
-        3. <b>Alguien observando</b> — Es un momento terrible para un fin de semana de acampada en familia, ya que están siendo atacados.
-        4. <b>El trén a ningún lado</b> — ¿A dónde llevará a Josh el viaje en el tren vacío?
+Hola! Elige una de las historias e inicia un diálogo interactivo
+
+<b>📚 Una noche solitaria</b>
+📃 Una noche solitaria en el hostal donde trabaja Reina, en una compañía intimidante.
+
+<b>📚 Atención a las señales</b>
+📃 Una madre soltera que se va a trabajar deja a sus hijas en casa donde ocurren cosas que hielan la sangre.
+
+<b>📚 Alguien observando</b>
+📃 Es un momento terrible para un fin de semana de acampada en familia, ya que están siendo atacados.
+
+<b>📚 El trén a ningún lado</b>
+📃 ¿A dónde llevará a Josh el viaje en el tren vacío?
         """,
         reply_markup=types.InlineKeyboardMarkup(
             inline_keyboard=[

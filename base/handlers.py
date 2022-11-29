@@ -9,7 +9,6 @@ async def create_new_user(dp_data, user_id, username):
     dp_data["users"][user_id].update({
         "id": user_id,
         "username": username.title(),
-        "complete_reads_counter": dp_data["users"][user_id].get("complete_reads_counter", 0),
         "referral_type": dp_data["users"][user_id].get("referral_type")
     })
 
@@ -67,5 +66,4 @@ async def restart(query: types.CallbackQuery):
     dispatcher = Dispatcher.get_current()
     await create_new_user(dispatcher.data, user_id, dispatcher.data["users"][user_id]["username"])
     current_user = dispatcher.data["users"][user_id]
-    current_user["complete_reads_counter"] += 1
     await sending_messages_till_answer(dispatcher, current_user, user_id, "0")

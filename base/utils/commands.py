@@ -5,5 +5,6 @@ async def set_bot_commands(dispatcher):  # dispatcher: Dispatcher
     await dispatcher.bot.set_my_commands(
         [
             BotCommand("back", "Seleccione la historia"),
+            BotCommand("restart", "Reiniciar el bot")
         ]
     )

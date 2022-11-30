@@ -12,6 +12,7 @@ def on_startup(dirs, user_model):
         dp.data["dialogs"] = load_dialogs(dp.data["dirs"]["STORAGE_DIR"], "dialogs")
         dp.data["users"] = load_users(dp.data["dirs"]["STORAGE_DIR"])
         dp.data["default_user_model"] = user_model
+        dp.register_callback_query_handler(restart, lambda cmd: cmd.data == "restart")
         dp.register_message_handler(restart, commands=["restart"])
         dp.register_message_handler(back_to_root_bot, commands=["back"])
         dp.register_message_handler(echo)

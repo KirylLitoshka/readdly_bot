@@ -52,6 +52,12 @@ async def back_to_root_bot(message: types.Message):
                     text="Seleccione la historia",
                     url="https://t.me/ReaddlyProject_bot",
                 )
+            ],
+            [
+                types.InlineKeyboardButton(
+                    text="Reiniciar el bot",
+                    callback_data="restart",
+                )
             ]
         ],
     )
@@ -61,8 +67,8 @@ async def back_to_root_bot(message: types.Message):
     )
 
 
-async def restart(query: types.CallbackQuery):
-    user_id = str(query.from_user.id)
+async def restart(data):
+    user_id = str(data.from_user.id)
     dispatcher = Dispatcher.get_current()
     await create_new_user(dispatcher.data, user_id, dispatcher.data["users"][user_id]["username"])
     current_user = dispatcher.data["users"][user_id]

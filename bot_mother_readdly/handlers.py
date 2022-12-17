@@ -1,3 +1,6 @@
+import aiofiles
+import json
+from datetime import datetime
 from aiogram import Bot, Dispatcher, types
 
 links = {
@@ -7,15 +10,37 @@ links = {
 }
 
 
-async def create_new_user(user_id, users_storage):
-    users_storage[str(user_id)] = {
-        "gender": None,
-        "picture_type": None,
-        "current_choices": "gender"
+def get_referral_type(message: str):
+    sequence = message.split()
+    if len(sequence) > 1:
+        return sequence[1]
+    return None
+
+
+async def save_user(dp: Dispatcher, user: dict):
+    user_id = user["id"]
+    dp.data['users'][user_id] = user
+    async with aiofiles.open(f'{dp.data["storage"]}/users/{user_id}.json', mode="w") as fp:
+        await fp.write(json.dumps(user, indent=4, ensure_ascii=False))
+
+
+async def create_new_user(message: types.Message):
+    user_id = str(message.from_user.id)
+    current_time = datetime.strftime(datetime.utcnow(), "%s")
+    dp = Dispatcher.get_current()
+    user_ref = get_referral_type(message.text)
+    if user_id in dp.data["users"]:
+        return
+    user = {
+        "id": user_id,
+        "referral_type": user_ref,
+        "created": current_time
     }
+    await save_user(dp, user)
 
 
 async def show_menu(message: types.Message):
+    await create_new_user(message)
     await message.answer(
         text="""
 Hola! Elige una de las historias e inicia un diálogo interactivo

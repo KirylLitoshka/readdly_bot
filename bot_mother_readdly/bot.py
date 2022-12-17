@@ -1,11 +1,16 @@
+import pathlib
+import os
 from aiogram import Bot, Dispatcher, executor
 
 from bot_mother_readdly.commands import set_bot_commands
 from bot_mother_readdly.handlers import show_menu
+from base.utils.storage import load_users
 
 
 async def on_startup(dp: Dispatcher):
     await set_bot_commands(dp)
+    dp.data['storage'] = os.path.join(pathlib.Path(__file__).parent, "storage")
+    dp.data['users'] = load_users(dp.data['storage'])
     dp.register_message_handler(show_menu, commands=["start"])
 
 

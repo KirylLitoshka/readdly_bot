@@ -8,7 +8,10 @@ def load_users(storage_dir: str):
     users_data = {}
     users_storage = os.path.join(storage_dir, "users")
     if not os.path.exists(users_storage):
-        os.mkdir(users_storage)
+        try:
+            os.mkdir(users_storage)
+        except FileNotFoundError:
+            os.makedirs(users_storage)
         return users_data
     *_, users_files = list(*os.walk(users_storage))
     if not users_files:
